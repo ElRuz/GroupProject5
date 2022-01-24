@@ -1,4 +1,4 @@
-package Nesibe;
+package nesibe;
 
 public class LoginTestCase {
 
