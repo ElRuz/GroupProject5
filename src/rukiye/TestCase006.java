@@ -1,4 +1,4 @@
-package b25;
+package rukiye;
 
 public class TestCase006 {
 
