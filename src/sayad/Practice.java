@@ -5,5 +5,7 @@ public class Practice {
     public static void main(String[] args) {
 
         // practice 1
+
+        // practice 2
     }
 }
