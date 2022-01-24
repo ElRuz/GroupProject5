@@ -1,4 +1,4 @@
-package b25_user;
+package karina;
 
 public class LoginTestCase {
 
