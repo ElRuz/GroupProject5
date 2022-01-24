@@ -1,6 +1,6 @@
 package elbek;
 
-public class LogginFuture {
+public class LoginFuture {
 
     // something
 }
